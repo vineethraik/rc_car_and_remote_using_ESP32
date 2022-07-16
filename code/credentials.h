@@ -1,0 +1,5 @@
+#define CAR_SSID "CAR"
+#define CAR_PSK "123456789"
+
+#define REMOTE_SSID "REMOTE"
+#define REMOTE_PSK "123456789"
